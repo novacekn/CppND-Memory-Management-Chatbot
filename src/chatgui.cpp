@@ -135,7 +135,7 @@ ChatBotPanelDialog::~ChatBotPanelDialog()
     //// STUDENT CODE
     ////
 
-    delete _chatLogic;
+    // delete _chatLogic;  This was the warm-up bug
 
     ////
     //// EOF STUDENT CODE
